@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Test app",
+  "main": "app.js",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "9.0.0"
+  },
+  "scripts": {
+    "preinstall": "echo \"hey\" && exit 0"
+  }
+}
+
