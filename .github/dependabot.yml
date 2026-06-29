@@ -9,4 +9,4 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-    target-branch: "my-target-tag"
+    target-branch: "bcfb40357ba06639c86a1dc58af8b53609cf6a0e"
