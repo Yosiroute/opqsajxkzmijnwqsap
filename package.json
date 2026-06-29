@@ -5,7 +5,7 @@
   "main": "app.js",
   "license": "ISC",
   "dependencies": {
-    "eslint": "9.0.0"
+    "eslint": "10.6.0"
   },
   "scripts": {
     "preinstall": "echo \"hey\" && exit 0"
